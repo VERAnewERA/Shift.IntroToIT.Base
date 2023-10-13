@@ -17,9 +17,9 @@ x_start, y_start = 20, 10
 
 img_file_back =     path.dirname(__file__)+ '/cave.png'
 img_file_hero =     path.dirname(__file__)+ '/m1.png'
-img_file_enemy =    path.dirname(__file__)+ '/enemy.png' 
+img_file_enemy =    path.dirname(__file__)+ '/enemy1.png' 
 img_file_bomb =     path.dirname(__file__)+ '/bomb.png'
-img_file_princess = path.dirname(__file__)+ '/princess.png'
+img_file_princess = path.dirname(__file__)+ '/syderman.png'
 FPS = 60
 
 # цвета:
